@@ -1,0 +1,8 @@
+<resources>
+    <color name="color_gradient_start">#468080</color>
+    <color name="color_gradient_center">#50B689</color>
+    <color name="color_gradient_end">#468080</color>
+    <color name="bottom_back">#20A6B3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

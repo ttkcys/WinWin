@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WinWin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/color_gradient_start</item>
+        <item name="colorAccent">@color/color_gradient_center</item>
+        <item name="colorPrimaryDark">@color/color_gradient_end</item>
+    </style>
+
+    <style name="Theme.WinWin" parent="Base.Theme.WinWin" />
+</resources>
